@@ -11,7 +11,7 @@
 An easy way to use the [official ManticoreSearch client](https://github.com/manticoresoftware/manticoresearch-php) in your Laravel or Lumen applications.
 
 ```sh
-composer require evilfreelancer/laravel-manticoresearch
+composer require psagnataf/laravel-manticoresearch
 ```
 
 ### Laravel
